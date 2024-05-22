@@ -1,0 +1,18 @@
+toBe - feito
+toEqual - feito                 
+not.toBe - feito
+toBeNull - feito
+toBeDefined - feito
+toBeUndefined - feito
+toBeTruthy - feito
+toBeFalsy - feito
+
+
+toBeGreaterThan - feito
+toBeGreaterThanOrEqual - feito
+toBeLessThan - feito
+toBeLessThanOrEqual - feito
+toBeCloseTo - feito
+toMatch - feito
+toContain
+toThrow
